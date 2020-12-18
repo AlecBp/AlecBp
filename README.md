@@ -49,11 +49,11 @@
 
 <br />
 <br />
-
-<img align="left" alt="Alec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecBp&theme=radical" >
-<img align="left" alt="Alec's Top Languages" src="https://github-readme-stats.vercel.app/api?username=AlecBp&show_icons=true&count_private=true&theme=radical" >
-
 <br />
+
+<img align="left" alt="Alec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecBp&theme=radical" />
+<img align="left" alt="Alec's Top Languages" src="https://github-readme-stats.vercel.app/api?username=AlecBp&show_icons=true&count_private=true&theme=radical" />
+
 <br />
 <br />
 <br />
