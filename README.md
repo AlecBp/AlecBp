@@ -10,7 +10,7 @@
 - 🤖 Robotics
 - ✨ 3D printing (I own a Prusa i3 style printer)
 - 🎮 Gamer in the spare time (❤️ FPS & MMORPG)
-- 😎 Competitive programming (IEEEXtreme - 10th in Canada)
+- 😎 Competitive programming (IEEEXtreme 2020 - 10th in Canada)
 
 ### 📫 How to reach me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlecBp)
