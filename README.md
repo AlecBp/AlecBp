@@ -54,5 +54,4 @@
 
 ### Stats
 
-<img align="left" alt="Alec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecBp&theme=radical" />
 <img align="left" alt="Alec's Git statistics" src="https://github-readme-stats.vercel.app/api?username=AlecBp&count_private=false&show_icons=true&theme=radical" />
