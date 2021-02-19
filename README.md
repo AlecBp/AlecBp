@@ -21,8 +21,9 @@
 ### 🥅 2021 Goals
 - Finally, create my own blog
 - Learn more about reinforcement learning and create a project using it
-- AWS Developer Associate Certificate
+- Get the AWS Developer Associate Certification
 - Master GraphQL
+- Use Typescript whenever possible
 
 ### My skills:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
